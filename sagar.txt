@@ -1,0 +1,7 @@
+Dummy File to learn the basic:
+git status
+git add <file_name>
+git commit –m “msg”
+git push 
+git pull
+git log
