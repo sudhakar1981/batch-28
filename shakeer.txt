@@ -8,11 +8,14 @@ public class CallingMethodsInSameClass
 	}
 
 	public static void printOne() {
-		System.out.println("Hello World");
+		System.out.prinatln("Hello World");
 	}
 
 	public static void printTwo() {
 		printOne();
-		printOne();
-	}
+	printOne();
+
+
+}
+}
 }
