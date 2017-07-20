@@ -3,8 +3,10 @@
 
 main()
 {
-  int a,b,c;
+  int a,b,c,d,e;
   printf("enter value for a =");
   scanf("%d",&a);
+  
+  
   }
   
